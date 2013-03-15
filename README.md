@@ -1,0 +1,4 @@
+MDD
+===
+
+Massive Dynamic Dictionary
