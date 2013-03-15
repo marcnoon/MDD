@@ -16,6 +16,9 @@ Provides the following features:
 -Most words will be for a single language when they first start out for simplicity.
 -Add ons will be secondary to words and definitions through an add on interface.
 -All entries will consist of a sorted array by dictionary name in a special format.  See appx A.
+-New words and definitions added should start with a word have a dash and end with a period.
+-Each new candidate word and definition will be added unless it has a competing word and definition.  If it does have a competiting word and definition then it must be rated and ranked before being added to the repository.
+
 
 All add ons will consist of a separate interface:
 
